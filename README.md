@@ -3,5 +3,5 @@
 #WE ARE GROUP 2
 ##Our Group Members are:
 *TAI, YU-CHI
-*
+*Chen, Kuan Ting
 *
