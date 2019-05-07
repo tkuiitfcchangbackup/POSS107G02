@@ -2,6 +2,6 @@
 
 # WE ARE GROUP 2
 ## Our Group Members are:
-* [TAI, YU-CHI](/yuchi)
+* [TAI, YU-CHI](/yuchi.txt)
 * Chen, Kuan Ting
 * GE, WEI
