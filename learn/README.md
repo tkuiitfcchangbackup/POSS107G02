@@ -1,6 +1,7 @@
-#This page contain all syntax what we learned
-##checking the db is create or not and create db
-`<?php
+# This page contain all syntax what we learned
+## checking the db is create or not and create db
+```
+<?php
    class MyDB extends SQLite3
    {
       function __construct()
@@ -14,4 +15,5 @@
    } else {
       echo "Opened database successfully\n";
    }
-?>` 
+?>
+```
