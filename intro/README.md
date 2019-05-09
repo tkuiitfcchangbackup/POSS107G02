@@ -8,5 +8,5 @@ This is KungTing introduction<br>
 This si Wei introduction<br>
 
 ## Our Purpose:
-[Goal](/ProjectGoal)this file contain all the detail of our project goal
+[Goal](/ProjectGoal)this file contain all the detail of our project goal<br>
 `this is our purpose`
