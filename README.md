@@ -1,6 +1,6 @@
 # POSS107G02 WE ARE GROUP 2
 ## Your can find the file in those path
->/intro:
+>[/intro](/intro):
 this file contain all the group member intro and our group project purpose.
 ## Our Group Members are:
 * [TAI, YU-CHI](/yuchi.txt)
