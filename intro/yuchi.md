@@ -21,8 +21,8 @@ none
 
 ##  技能清单
 
-★★★☆☆ Java
-★★★☆☆ C++、Python
-★★★★☆ MySQL
-★★☆☆☆ C、PHP、HTML
-★☆☆☆☆ CSS
+★★★☆☆ Java<br>
+★★★☆☆ C++、Python<br>
+★★★★☆ MySQL<br>
+★★☆☆☆ C、PHP、HTML<br>
+★☆☆☆☆ CSS<br>
