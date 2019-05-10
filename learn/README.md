@@ -1,5 +1,5 @@
 # This page contain all syntax what we learned
-## checking the db is create or not and create db
+>checking the db is create or not and create db
 ```
 <?php
    class MyDB extends SQLite3
