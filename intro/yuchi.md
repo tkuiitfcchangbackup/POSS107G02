@@ -8,7 +8,7 @@
 - IETLS 5.5
 
 
-## EEPERIENCE
+## EXPERIENCE
 
 none
 
@@ -19,7 +19,7 @@ none
   *we curl the data from the camp and hiking website into our database.
   and using algorium to recommand the user a best place for them* 
 
-##  技能清单
+##  SKILL LIST
 
 ★★★☆☆ Java<br>
 ★★★☆☆ C++、Python<br>
