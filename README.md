@@ -1,5 +1,5 @@
 # POSS107G02 WE ARE GROUP 2
-*[Our webpage:](http://163.13.22.121/POSS107G02/www/)
+Our webpage: *[http://163.13.22.121/POSS107G02/www/](http://163.13.22.121/POSS107G02/www/)
 ## Your can find the file in those path
 `/intro`:this dir contain all the group member intro and our group project purpose.<br>
 `/learn`:this dir contain all the syntax, which can let us easy to find.<br> 
