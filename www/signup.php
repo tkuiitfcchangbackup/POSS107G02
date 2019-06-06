@@ -1,30 +1,4 @@
 <!--https://www.youtube.com/watch?v=OWNxUVnY3pg-->
-<?php 
-	$servername = "localhost";
-	$username = "daiyuchi";
-	$password = "Dai12345";
-	$dbname = "USER";
-// CREATE CONNETION
-	$conn = new mysqli($servername, $username, $password, $dbname);
-// CHECK CONNECTION
-	if($conn->connect_error){
-		die("failed~".$conn->connect_error);
-	}
-	$sql = "SELECT * FROM usertable";
-$result = $conn->query($sql);
-
-if ($result->num_rows > 0) {
-    // 输出数据
-    while($row = $result->fetch_assoc()) {
-    echo "ID: ".$row['ID']. " username: ".$row['user'];
-    }
-} else {
-    echo "0 结果";
-}
-$conn->close();
-?>
-
-
 <html>
 <head>
 	<title>Login Form Design</title>
