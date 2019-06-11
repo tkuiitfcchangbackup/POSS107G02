@@ -30,7 +30,7 @@ Enter password: *******
 shell> QUIT
 Bye
 ```
-<hr>
+<br>
 
 >showing currently exist database on server
 ```
@@ -44,7 +44,7 @@ mysql> CREATE DATABASE test;
 ```
 mysql> USE test;
 ```
-<hr>
+<br>
 
 >showing currently exist table in the databse 
 ```
