@@ -1,4 +1,17 @@
 # This page contain all syntax what we learned
+##### ubuntu restart/start/stop apache2
+>start apache2
+```
+shell> sudo /etc/init.d/apache2 start
+```
+>restart apache2
+```
+shell> sudo /etc/init.d/apache2 restart
+```
+>stop apache2
+```
+shell> sudo /etc/init.d/apache2 stop
+```
 ##### php and sqlite3
 >checking the db is create or not and create db
 ```
