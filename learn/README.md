@@ -1,5 +1,5 @@
 # This page contain all syntax what we learned
-#####php and sqlite3
+##### php and sqlite3
 >checking the db is create or not and create db
 ```
 <?php
@@ -18,8 +18,20 @@
    }
 ?>
 ```
-#####use commentline to control MYSQL database
+##### use commentline to control MYSQL database
 >connect to mysql
 ```
 shell> mysql -u username -p
+Enter password: *******
 ```
+>disconnect mysql
+```
+shell> QUIT
+Bye
+```
+<hr>
+>showing currently exist database on server
+```
+mysql> show databases;
+```
+>
