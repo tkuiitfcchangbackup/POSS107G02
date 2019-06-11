@@ -1,4 +1,5 @@
 # This page contain all syntax what we learned
+#####php and sqlite3
 >checking the db is create or not and create db
 ```
 <?php
@@ -16,4 +17,9 @@
       echo "Opened database successfully\n";
    }
 ?>
+```
+#####use commentline to control MYSQL database
+>connect to mysql
+```
+shell> mysql -u username -p
 ```
