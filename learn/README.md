@@ -24,14 +24,38 @@
 shell> mysql -u username -p
 Enter password: *******
 ```
+
 >disconnect mysql
 ```
 shell> QUIT
 Bye
 ```
 <hr>
+
 >showing currently exist database on server
 ```
-mysql> show databases;
+mysql> SHOW DATABASES;
 ```
->
+>create an database(called test)
+```
+mysql> CREATE DATABASE test;
+```
+>access database(called test)
+```
+mysql> USE test;
+```
+<hr>
+
+>showing currently exist table in the databse 
+```
+mysql> SHOW TABLES;
+```
+>create table
+```
+mysql> CREATE TABLE pet (name varchar(10), owner varchar(10), sex char(1), birth date, death date);
+```
+>see description of each variable in the table(i.e. pet table)
+```
+mysql> DESCRIBE pet;
+```
+
