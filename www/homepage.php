@@ -87,7 +87,7 @@ li.r{float:right;}
 		 <h1>TKU<h1>
 		<ul id = "reg">
 		<li class = "r"><a href = "signup.php" class="in"target = "view_window" >SIGN IN</a>
-		<li class= "r"><a href = "register.php" class = "in" target = "view_window">SIGN UP<a>
+		<li class= "r"><a href = "soon.php" class = "in" target = "view_window">SIGN UP<a>
 		</ul>
 	    </div>
        <div id="content">
