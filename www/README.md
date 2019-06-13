@@ -9,7 +9,7 @@
 
 <br>
 ## what we will do (mean:-[ ]create or not -[ ]completed functions or not.)
-- [x]-[ ] start page
+- [x] start page
 - [x]-[ ]sign in/up
 - [x]-[ ] connect to database
 - [x]-[ ]comment area
