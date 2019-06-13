@@ -8,16 +8,15 @@ body {
 }
 
 a {
-    text-derection: none;
+    text-decoration: none;
     color: red;
 }
-
 h1, h2, h3{
     margin: 0;
 }
 
 {
-    text-derection: none;
+    text-decoration: none;
     color: red
 }
 
@@ -44,17 +43,17 @@ h1, h2, h3{
 
 #nav {
       width: 180px;
-      folat: left;
+      float: left;
 }
 
 #nav ul {
        list-style-type:none;
        padding: 0;
-
-#nav. selected {
+}
+#nav.selected {
     font-weight:bold;
-
-#main {
+}
+#main{
     width: 600px;
     float: right;
 }
@@ -73,23 +72,34 @@ h1, h2, h3{
       <div id="container">
             <div id="header">
                  <h1>TKU<h1>
-         </div>
+	    </div>
        <div id="content">
            <div id="nav">
-                 <h3>Navigation</h3>
+		 <h3>Navigation</h3>
+		
                  <ul>
-                      <li><a class="selected href="">Home</a></li>
+                      <li><a class="selected href=">Home</a></li>
                       <li><a href="">About</a></li>
                       <li><a href="">Contact</a></li>
 		 </ul>
          </div>
 
-         <div id="main">
+	 <div id="main">
+            <form action="" method="post">
+            <div class="search">
+                <input type="text" class="search_key" value"web search" />
+                <input type="submit" class="submit" value"search">
+                  </div>
+                        </form>
                  <h2>Article</h2>
            </div>
      </div>
      <div id="footer">
-             Copyright &copy; 2019 
+	  
+<a href="/intro/yuchi.md">TAI, YU-CHI</a>
+<a href="/intro/KuanTing.md">CHEN KUAN TING</a>
+<a href="/intro/wei.md">GE, WEI</a>
+            Copyright &copy; 2019 
       </div>
      </div>
 </html>
