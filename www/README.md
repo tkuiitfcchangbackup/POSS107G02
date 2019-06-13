@@ -8,11 +8,11 @@
 `/intro`:it is a dir for put our member introduction as same as `/POSS107G02/intro`<br>
 
 <br>
-## what we will do (mean:- [ ]create or not - [ ]completed functions or not.)
+## what we will do 
 - [ ] start page
-- [x]-[ ]sign in/up
-- [x]-[ ] connect to database
-- [x]-[ ]comment area
-- [x]-[ ] classification
-- [ ]-[ ]user main page
+- [x] sign in/up
+- [x] connect to database
+- [x] comment area
+- [x] classification
+- [ ] user main page
 - other.....
