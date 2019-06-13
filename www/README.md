@@ -9,10 +9,11 @@
 
 <br>
 ## what we will do 
-- [ ] start page
-- [x] sign in/up
-- [x] connect to database
-- [x] comment area
-- [x] classification
-- [ ] user main page
+
+- [ ]start page
+- [x]sign in/up
+- [x]connect to database
+- [x]comment area
+- [x]classification
+- [ ]user main page
 - other.....
